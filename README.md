@@ -10,7 +10,6 @@ nosso projeto tem como **objetivo** a prevenção desses alagamentos utilizando 
   - **Verde**: Umidade segura.
   - **Amarelo**: Nível médio.
   - **Vermelho**: Risco de enchente.
-- 
 
 ## Componentes Utilizados
 
