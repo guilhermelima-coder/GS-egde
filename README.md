@@ -26,6 +26,7 @@ nosso projeto tem como **objetivo** a prevenção desses alagamentos utilizando 
 Veja o circuito na imagem abaixo (Tinkercad):
 ![image](https://github.com/user-attachments/assets/0a2e9684-4143-4295-b434-8e4fbd492825)
 [Link do circuito](https://www.tinkercad.com/things/ggomxY7tfY4-gs-edge?sharecode=MOnl6etXtflNA4IHyGNQ6fPmP1IWC0XwbpJ2c36IWGQ)
+
 [Video de circuito em funcionamento](https://www.youtube.com/watch?v=6UoaTlFlRh4)
 
 ## Código Fonte
