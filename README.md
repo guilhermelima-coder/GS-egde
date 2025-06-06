@@ -22,7 +22,7 @@ nosso projeto tem como **objetivo** a prevenção desses alagamentos utilizando 
 - 4x Resistores (220Ω)
 - Jumpers e Protoboard
 
-## Esquema de Ligação
+## Circuito 
 
 Veja o circuito na imagem abaixo (Tinkercad):
 ![image](https://github.com/user-attachments/assets/0a2e9684-4143-4295-b434-8e4fbd492825)
